@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374494645466",
+    "firebase_url": "https://avenirx-39f5d.firebaseio.com",
+    "project_id": "avenirx-39f5d",
+    "storage_bucket": "avenirx-39f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374494645466:android:3c1dd9526701c49ddd29e3",
+        "android_client_info": {
+          "package_name": "com.avenirx.avenirx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374494645466-vt0b3m7l5vpjjua703e52d0v7rq1bq5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFp4BE8UV6UTeo6jogutx8IzdiLr03CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374494645466-vt0b3m7l5vpjjua703e52d0v7rq1bq5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
